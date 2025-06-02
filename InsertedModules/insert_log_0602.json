@@ -1,0 +1,14 @@
+[
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "O_SC_W_FC",
+    "ExpansionConstant": 1,
+    "ExpansionDirection": "No expansion",
+    "InsertPoint": {
+      "x": -15.32,
+      "y": 0.03,
+      "z": 0.0
+    },
+    "RotationAngle": 3.141592653589793
+  }
+]

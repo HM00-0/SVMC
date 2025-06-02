@@ -1,0 +1,22 @@
+[
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": -20.24,
+      "y": 0.03,
+      "z": -16.01
+    },
+    "EndPoint": {
+      "x": -27.85,
+      "y": 0.03,
+      "z": -16.01
+    },
+    "PanelCount": 1,
+    "SegmentLengths": [
+      1500.0
+    ],
+    "TotalLength": 2320.0
+  }
+]

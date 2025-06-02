@@ -1,0 +1,26 @@
+[
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -17.7,
+      "y": 1.1,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -7.86,
+      "y": 11.03,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  }
+]

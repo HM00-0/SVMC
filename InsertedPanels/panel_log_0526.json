@@ -1,0 +1,110 @@
+[
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": -17.7,
+      "y": 5.03,
+      "z": 0.0
+    },
+    "EndPoint": {
+      "x": -17.7,
+      "y": 28.33,
+      "z": 0.0
+    },
+    "PanelCount": 5,
+    "SegmentLengths": [
+      1200.0,
+      1200.0,
+      1500.0,
+      1500.0,
+      1500.0
+    ],
+    "TotalLength": 7100.0
+  },
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": -17.7,
+      "y": 28.33,
+      "z": 0.0
+    },
+    "EndPoint": {
+      "x": 1.98,
+      "y": 28.33,
+      "z": 0.0
+    },
+    "PanelCount": 4,
+    "SegmentLengths": [
+      1500.0,
+      1500.0,
+      1500.0,
+      1500.0
+    ],
+    "TotalLength": 6000.0
+  },
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": 1.98,
+      "y": 28.33,
+      "z": 0.0
+    },
+    "EndPoint": {
+      "x": 1.98,
+      "y": 18.9,
+      "z": 0.0
+    },
+    "PanelCount": 2,
+    "SegmentLengths": [
+      1200.0,
+      1500.0
+    ],
+    "TotalLength": 2872.38
+  },
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": 1.98,
+      "y": 18.9,
+      "z": 0.0
+    },
+    "EndPoint": {
+      "x": -2.71,
+      "y": 18.9,
+      "z": 0.0
+    },
+    "PanelCount": 1,
+    "SegmentLengths": [
+      1200.0
+    ],
+    "TotalLength": 1430.75
+  },
+  {
+    "WallTypeName": "실내 - 138mm 칸막이(1시간)",
+    "LevelName": "레벨 1",
+    "Height": 3000.0,
+    "StartPoint": {
+      "x": -7.89,
+      "y": 5.03,
+      "z": 0.0
+    },
+    "EndPoint": {
+      "x": -7.89,
+      "y": 11.03,
+      "z": 0.0
+    },
+    "PanelCount": 1,
+    "SegmentLengths": [
+      1500.0
+    ],
+    "TotalLength": 1827.62
+  }
+]

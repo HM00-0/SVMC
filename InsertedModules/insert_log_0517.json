@@ -1,0 +1,68 @@
+[
+  {
+    "UnitType": "UnitA",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -18.318244313422724,
+      "y": 6.02392741339807,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -18.318244313422724,
+      "y": 11.10599539177354,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Down",
+    "InsertPoint": {
+      "x": -18.091046150693067,
+      "y": -13.996340380202255,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitB",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -14.776196934554974,
+      "y": -1.2911704342635844,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -9.77112998615489,
+      "y": 0.026130074556432792,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -9.77112998615489,
+      "y": 10.643989211921223,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  }
+]

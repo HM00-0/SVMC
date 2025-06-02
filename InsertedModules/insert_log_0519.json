@@ -1,0 +1,86 @@
+[
+  {
+    "UnitType": "UnitB",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -11.234149555687225,
+      "y": 3.097888274333407,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitB",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -4.344385776159679,
+      "y": 12.940407959372777,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitB",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Left",
+    "InsertPoint": {
+      "x": 20.949129913454556,
+      "y": 12.940407959372777,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Left",
+    "InsertPoint": {
+      "x": -14.468192814653435,
+      "y": 2.558881064505705,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": 0.9320131804237377,
+      "y": 2.558881064505705,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": -16.23921650408731,
+      "y": -3.216196183648229,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0517",
+    "ExpansionConstant": 1,
+    "ExpansionDirection": "No expansion",
+    "InsertPoint": {
+      "x": -2.610034198444012,
+      "y": 4.657819564383266,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -30.869412199410633,
+      "y": 2.789884154431867,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -10.079134106056458,
+      "y": 2.789884154431867,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Left",
+    "InsertPoint": {
+      "x": -14.699195904579597,
+      "y": 1.0188604649979922,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": 2.010027600079127,
+      "y": 1.0188604649979922,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitA",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": 8.20593621454006,
+      "y": 14.21146309997518,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitB",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Left",
+    "InsertPoint": {
+      "x": -17.78,
+      "y": 3.17,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitB",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": 5.63,
+      "y": 3.17,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitC",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": -23.4,
+      "y": -1.29,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitC",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Right",
+    "InsertPoint": {
+      "x": 10.25,
+      "y": -1.29,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  },
+  {
+    "UnitType": "UnitC",
+    "ModuleType": "M0511",
+    "ExpansionConstant": 2,
+    "ExpansionDirection": "Up",
+    "InsertPoint": {
+      "x": 25.2,
+      "y": 20.15,
+      "z": 0.0
+    },
+    "RotationAngle": 0.0
+  }
+]
